@@ -1,2 +1,3 @@
 # stock-analysis
-VBA Wall Street
+VBA Wall Street Stock Analysis
+
