@@ -24,6 +24,17 @@ We created a clickable button and improved the execution time.
 ### VBA Challenge_2017
 ![image](https://user-images.githubusercontent.com/72223864/102021004-d1b36000-3d4a-11eb-9de9-aab9465d26f1.png)
 
+### Summary - The advantage and disadvantage of refactoring code
+#### The Advantages
+1. Refactactoring code speed up the execution/run time
+2. Utilizes the computer memory better
+3. saves time - it took my first code (before refactoring) over 40 seconds to execute, it took only 0.66 seconds with my refactoring  code
+
+#### Disadvantages
+1. Difficult to understand for new students
+
+
+
 
 
 
